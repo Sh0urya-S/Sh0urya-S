@@ -1,5 +1,5 @@
 **Hellooo 👋👋**
-
+<--
 Welcome to my Github, I am Shourya, currently pursuing my second year of Computer Science and Engineering.
 
 I have been coding for about seven years now and at this point, I practically live on my computer and the internet. I have worked on multiple projects and some of them are in my github. I will try and keep uploading new projects that I work on, which can assist people in any possible way.
@@ -15,3 +15,4 @@ Other features:
   -Adobe Premiere Pro
 
 _You have reached the end of the About Me section, be sure to check out my repositories for the projects I've worked on_
+-->
