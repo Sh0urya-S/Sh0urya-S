@@ -8,7 +8,7 @@ I have been coding for about seven years now and at this point, I practically li
 
   -⌨️Typing Speed:120 WPM
   
-  -👾Packages installed:C/C++, Python, HTML, CSS(basics),  SQL, JAVA
+  -👾Packages installed:C/C++, Python, HTML, CSS(basics),  SQL, JAVA, Networks (basics)
   
   -Studied a browser exploit framework on a home network using NGROK port forwarding service
 
