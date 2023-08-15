@@ -6,7 +6,7 @@ I have been coding for about seven years now and at this point, I practically li
 
 **Personal Specs**:
 
-  -⌨️Peak Typing Speed:125 WPM
+  -⌨️Peak Typing Speed:130 WPM
   
   -👾Packages installed:C/C++, Python, HTML, CSS(basics),  SQL, JAVA, Networks (basics)
   
