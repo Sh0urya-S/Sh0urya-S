@@ -15,6 +15,7 @@ I have been coding for about seven years now and at this point, I practically li
 **Fun fact**: The Body wireframing code helped me and my team of five, bag first place at college level in the Smart India Hackathon
 
 **Other features**:
+
   -Music Production using FL Studio
 
 -Adobe Photoshop
