@@ -10,7 +10,7 @@ I have been coding for about seven years now and at this point, I practically li
   
   -👾Packages installed:C/C++, Python, HTML, CSS(basics),  SQL, JAVA, Networks (basics)
   
-  -Studied a browser exploit framework on a home network using NGROK port forwarding service
+  -Studied a browser exploit framework on a home network
 
 **Fun fact**: The Body wireframing code helped me and my team of five, bag first place at college level in the Smart India Hackathon 2022
 
