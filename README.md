@@ -12,8 +12,6 @@ I have been coding for about seven years now and at this point, I practically li
   
   -Studied a browser exploit framework on a home network
 
-**Fun fact**: The Body wireframing code helped me and my team of five, bag first place at college level in the Smart India Hackathon 2022
-
 **Other features**:
 
   -Music Production using FL Studio
