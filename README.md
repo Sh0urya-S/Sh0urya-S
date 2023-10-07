@@ -20,4 +20,4 @@ I have been coding for about seven years now and at this point, I practically li
 
   -Adobe Premiere Pro
 
-_You have reached the end of the About Me section, be sure to check out my repositories for the projects I've worked on_
+_You have reached the end of the About Me section, be sure to check out my repositories for the projects I've worked on or find me on <a href="https://www.linkedin.com/in/shourya-s/">LinkedIn</a>_
