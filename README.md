@@ -10,8 +10,7 @@ I have been coding for about eight years now and at this point, I practically li
   
   -👾Packages installed:C/C++, Python, HTML, CSS(basics),  SQL, JAVA, Networks (basics)
   
-  -Studied a browser exploit framework on a home network
-
+  -Studied a browser exploitation framework over LAN
 **Other features**:
 
   -Music Production using FL Studio
