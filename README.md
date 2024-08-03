@@ -22,3 +22,5 @@ I have been coding for about eight years now and at this point, I practically li
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sh0urya-s&" alt="sh0urya-s" /></p>
 
+[![](https://visitcount.itsvg.in/api?id=Sh0urya-S&icon=0&color=0)](https://visitcount.itsvg.in)
+
