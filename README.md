@@ -6,7 +6,7 @@ I have been coding for about eight years now and at this point, I practically li
 
 **Personal Specs**:
 
-  -⌨️Typing Speed(in WPM): 140 (peak) , 130-140 (average)
+  -⌨️Typing Speed(in WPM): 150 (peak) , 130-140 (average)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
