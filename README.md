@@ -2,7 +2,7 @@
 
 I am Shourya, currently pursuing my third year of Computer Science and Engineering(Cyber Security).
 
-I have been coding for about eight years now. I have worked on multiple projects and some of them are in my github. I will try and keep uploading new projects that I work on, which can assist people in any possible way.
+I have been coding since 8 years. I have worked on multiple projects and some of them are in my github. I will try and keep uploading new projects that I work on, which can assist people in any possible way.
 
 **Personal Specs**:
 
