@@ -1,6 +1,6 @@
-**Hellooo 👋👋**
+**Hello 👋**
 
-Welcome to my Github, I am currently pursuing my third year of Computer Science and Engineering(Cyber Security).
+I am Shourya, currently pursuing my third year of Computer Science and Engineering(Cyber Security).
 
 I have been coding for about eight years now. I have worked on multiple projects and some of them are in my github. I will try and keep uploading new projects that I work on, which can assist people in any possible way.
 
