@@ -4,9 +4,8 @@ I am Shourya, currently pursuing my third year of Computer Science and Engineeri
 
 I have been coding since 8 years. I have worked on multiple projects and some of them are in my github. I will try and keep uploading new projects that I work on, which can assist people in any possible way.
 
-**Personal Specs**:
 
-  -⌨️Typing Speed(in WPM): 150 (peak) , 130-140 (average)
+⌨️Typing Speed(in WPM): 150 (peak) , 130-140 (average)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
